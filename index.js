@@ -6,7 +6,7 @@ const seeding = require("seeding")
 var events = require('events');
 
 const { API, Regions, Locales, Queue } = require("node-valorant-api");
-const APIKey = "RGAPI-4ff4548a-b87d-4c76-af77-fcd7193cb7d9"; //YOUR RIOT DEV API KEY
+const APIKey = "RGAPI-046fdb26-36ed-4462-8ba7-c0a4be7b9ec8"; //YOUR RIOT DEV API KEY
 const valorant = new API(Regions.NA, APIKey, Regions.AMERICAS);
 const app = express()
 const PORT = process.env.PORT || 9002;
