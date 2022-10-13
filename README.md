@@ -12,6 +12,10 @@
 4. `npm start`
 5. The app is now running at http://localhost:9002/
 
+## Database Setup
+
+1. Download and install the latest version of MongoDB from [here](https://www.mongodb.com/try/download/community2)
+2. Make sure that MongoDB is running on `port 27017`
 ## Useful Links
 
 - [Deployed Website](https://618ebdcca970c0061a4118d8--dualapp.netlify.app/)
